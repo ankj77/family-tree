@@ -1,0 +1,23 @@
+{
+  "name": "bakhata-family-tree",
+  "version": "1.0.0",
+  "description": "## Demo ",
+  "main": "family.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankj77/family-tree.git"
+  },
+  "author": "ankj77",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankj77/family-tree/issues"
+  },
+  "homepage": "https://ankj77.github.io/family-tree",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
