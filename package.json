@@ -4,7 +4,8 @@
   "description": "## Demo ",
   "main": "family.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
   },
   "repository": {
     "type": "git",
@@ -15,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/ankj77/family-tree/issues"
   },
-  "homepage": "https://github.com/ankj77/family-tree#readme",
+  "homepage": "https://ankj77.github.io/family-tree",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
